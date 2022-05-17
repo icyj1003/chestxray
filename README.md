@@ -1,4 +1,4 @@
-# is254m21-chestxray
+# Phát triển hệ hỗ trợ quyết định lâm sàng phát hiện sớm COVID-19 dựa trên hình ảnh X quang phổi
 
 Tạo môi trường Python
 
